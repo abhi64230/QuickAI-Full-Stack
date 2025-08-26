@@ -74,7 +74,7 @@ Deploy: Vercel (client), Render/Railway (server)
 
 ⚙️ Quick Start
 # Clone repo
-git clone https://github.com/yourname/ai-saas-pern.git
+git clone https://github.com/abhi64230/QuickAI-Full-Stack.git
 cd ai-saas-pern
 
 
